@@ -1,5 +1,7 @@
 # JavaScript Basics Assignment
 
+Click <a href="https://a-stuart.github.io/exerJavaScriptBasics/> here </a> to visit the site.
+
 ## Summary of Steps to Complete (See corresponding sections below.)
 
 - [ ] Fork this assignment so you can work on your own copy.
